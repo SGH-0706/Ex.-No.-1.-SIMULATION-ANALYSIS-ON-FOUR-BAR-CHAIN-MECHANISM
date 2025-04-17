@@ -53,10 +53,13 @@
 
 
 ## Output:
+![Screenshot 2025-04-17 151947](https://github.com/user-attachments/assets/8dab8c8d-36c2-49dd-a69a-228150cb1b1b)
+
+![Screenshot 2025-04-17 151936](https://github.com/user-attachments/assets/2345d358-cd1f-4d6f-b626-965657590790)
 
 
-### Name:
-### Register Number: 
+### Name: SRINITHI MUTHUKUMAR
+### Register Number: 212224240161
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
